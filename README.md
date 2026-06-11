@@ -30,7 +30,7 @@ The trained model weight file is too large to upload directly to GitHub, so we p
 Model weights link:
 
 ```text
-[Put Google Drive link here]
+(https://drive.google.com/file/d/19sFCznpR9kceL_UEgxkTZOjkF3RlydR6/view?usp=drive_link)
 ```
 
 ## Dataset
