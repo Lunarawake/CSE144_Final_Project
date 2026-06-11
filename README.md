@@ -69,8 +69,6 @@ We used a pretrained EfficientNet-B3 model from TorchVision.
 
 Basic setup:
 
-<img width="888" height="606" alt="Screenshot 2026-06-10 at 5 53 49 PM" src="https://github.com/user-attachments/assets/1d59a1e7-28da-401d-b7ef-b16d25b71d7c" />
-
 
 ```text
 Model: EfficientNet-B3
@@ -190,7 +188,8 @@ This is above the required baseline score of 0.60.
 
 Kaggle leaderboard screenshot:
 
-![Kaggle Leaderboard](kaggle_leaderboard.png)
+<img width="888" height="606" alt="Screenshot 2026-06-10 at 5 53 49 PM" src="https://github.com/user-attachments/assets/4b9ade3a-fc92-4e7c-b66f-af1c2299a398" />
+
 
 ## Report
 
